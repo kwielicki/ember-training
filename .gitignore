@@ -1,0 +1,16 @@
+# FRONT
+# compiled output
+app-front/dist
+app-front/tmp
+
+# dependencies
+app-front/node_modules
+app-front/bower_components
+
+# misc
+app-front/.sass-cache
+app-front/connect.lock
+app-front/coverage/*
+app-front/libpeerconnection.log
+app-front/npm-debug.log
+app-front/testem.log
